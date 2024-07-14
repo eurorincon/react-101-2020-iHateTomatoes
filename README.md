@@ -1,3 +1,4 @@
+![React Project](logo.png)
 # React 101 - 2020
 All working files for the React 101 2020.
 
